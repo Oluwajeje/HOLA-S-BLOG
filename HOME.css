@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: white;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 30%;
+    font-size: small;
+    color: white;
+    text-align: left;
+}
+a{
+    background-origin: padding-box;
+    border: 40px;
+}
